@@ -63,7 +63,6 @@ www.api--whatsapp.com
 w10.web.whatsapp.com
 whatsapp.info
 whatsapp.net
-
 mmg-fna.whatsapp.net		
 media-mct1-1.cdn.whatsapp.net
 mme-test.whatsapp.net		
