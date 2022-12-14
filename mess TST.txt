@@ -1,10 +1,10 @@
-scontent.xx.fbcdn.net			CCC
+scontent.xx.fbcdn.net
 static.xx.fbcdn.net
 www.messenger.com
-chat-e2ee-mini.facebook.com            CCC
-edge-mqtt.facebook.com			CCC
+chat-e2ee-mini.facebook.com
+edge-mqtt.facebook.com
 www.facebook.com
-b-api.facebook.com			CCC
-api.facebook.com				CCC
-portal.fb.com				CCC
-edge-stun.facebook.com			CCC
+b-api.facebook.com
+api.facebook.com
+portal.fb.com
+edge-stun.facebook.com
