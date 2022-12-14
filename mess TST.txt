@@ -1,0 +1,10 @@
+scontent.xx.fbcdn.net
+static.xx.fbcdn.net
+www.messenger.com
+chat-e2ee-mini.facebook.com
+edge-mqtt.facebook.com
+www.facebook.com
+b-api.facebook.com
+api.facebook.com
+portal.fb.com
+edge-stun.facebook.com
